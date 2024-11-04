@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_all"
+        android:title="All" />
+    <item
+        android:id="@+id/menu_graphics_cards"
+        android:title="Graphics Cards" />
+    <item
+        android:id="@+id/menu_processors"
+        android:title="Processors" />
+    <item
+        android:id="@+id/menu_ram"
+        android:title="RAM Sticks" />
+    <item
+        android:id="@+id/menu_power_supplies"
+        android:title="Power Supplies" />
+    <item
+        android:id="@+id/menu_cases"
+        android:title="Cases" />
+    <item
+        android:id="@+id/menu_phones"
+        android:title="Phones" />
+</menu>
